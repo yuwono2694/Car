@@ -7,6 +7,8 @@ import sun.audio.*;
 import java.io.*;
 import java.util.Random;
 
+//ini tugas yang diminta ko hudi.. Thank you..
+
 public class Car
 {
    	private int xLeft;
